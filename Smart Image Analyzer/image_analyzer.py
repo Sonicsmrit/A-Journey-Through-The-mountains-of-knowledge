@@ -35,7 +35,6 @@ for image_path in image_dir.iterdir():
     lap = cv.Laplacian(gray_img,cv.CV_64F)
     lap_var = lap.var()
 
-    
     #edge detection
     edge = cv.Canny(gray_img, threshold1=50,threshold2=150)
     cv.imshow("Edge",edge)
