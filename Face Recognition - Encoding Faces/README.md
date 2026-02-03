@@ -48,7 +48,7 @@ Run the script and use keyboard inputs:
 
 - Type "c" → Clear typed text.
 
--Type "r" → Resets the the verification process so it can detect new faces to verify.
+- Type "r" → Resets the the verification process so it can detect new faces to verify.
 
 - Press x → exit the program.
 
