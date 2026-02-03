@@ -54,6 +54,7 @@ while running:
 
             if text == "r":
                 continue_varification = True
+                verified = False
 
             if text == "verify":
 
