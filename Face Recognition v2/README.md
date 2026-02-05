@@ -13,7 +13,7 @@ pip install deepface opencv-python numpy
 
 ## Run
 ```bash
-bashpython recognize_faces.py
+python recognize_faces.py
 ```
 
 ## Controls
