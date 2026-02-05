@@ -20,7 +20,7 @@ bashpython recognize_faces.py
 - Type `o123` + ENTER - Save face
 - **X** - Exit
 
-## 🧠 How It Works
+## How It Works
 > Startup: Load pre-computed embeddings
 > Each frame: Detect face → Extract embedding (every 20 frames) → Compare to database → Display match result
 
